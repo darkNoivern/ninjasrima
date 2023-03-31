@@ -1,5 +1,5 @@
 .about-section{
-    height: 25rem;
+    height: 40rem;
 }
 
 /* .about-image{
@@ -16,7 +16,7 @@
 .context {
     width: 100%;
     position: relative;
-    height: 25rem;
+    height: 40rem;
     /* display: flex;
     justify-content: center;
     align-items: center; */
@@ -40,8 +40,18 @@
     width: 100%;
     /* width: 100vw !important; */
     /* width: calc(100% - 2.5rem); */
-    height: 25rem;
+    height: 40rem;
     overflow: hidden;
+}
+
+
+
+@media screen and (min-width: 768px) {
+
+    .context, .circles{
+        height: 25rem;
+    }
+
 }
 
 .circles li{

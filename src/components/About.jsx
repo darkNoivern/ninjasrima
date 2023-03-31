@@ -31,7 +31,7 @@ const About = () => {
                     <div className="section-heading">About</div>
                     <div className="section-subheading">Read to know about my journey</div>
                 </div>
-                    <div className="grid grid-cols-3 gap-6">
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                         <div className="gif-container flexy">
                             <img className='about-image' src={about} alt="" />
                         </div>

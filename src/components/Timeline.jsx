@@ -6,7 +6,7 @@ const Timeline = () => {
     const [active, setActive] = useState(true);
 
     return (
-        <div id="timeline" className="qualification section-25 section">
+        <div id="timeline" className="qualification section-25 section px-5">
 
             <div className="mb-8">
                 <h2 class="section-heading">Timeline</h2>
