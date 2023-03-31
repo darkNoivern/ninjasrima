@@ -1,0 +1,17 @@
+.subscribe-button{
+    /* background-color: red; */
+    font-size: 1.1rem;
+}
+
+.red{
+    box-shadow: 0 15px 20px rgba(255, 255, 255,0.4) !important;
+}
+
+@media screen and (min-width: 768px) {
+    #home{
+        margin-top: 5rem;
+    }
+}
+#home{
+    min-height: 30rem;
+}
