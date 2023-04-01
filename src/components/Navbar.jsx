@@ -61,7 +61,7 @@ const Navbar = () => {
                                 smooth={true}
                                 duration={500}
                                 offset={-64} 
-                                className="nav__link"><i class="uil uil-file-alt nav__icon"></i>Videos
+                                className="nav__link"><i class="uil uil-youtube nav__icon"></i>Videos
                             </Link>
                         </li>
                         <li className="nav__item">
@@ -74,7 +74,7 @@ const Navbar = () => {
                                 duration={500}
                                 offset={-64} 
                                 className="nav__link">
-                                <i class="uil uil-briefcase-alt nav__icon"></i>Stats
+                                <i class="uil uil-rocket nav__icon"></i>Stats
                             </Link>
                         </li>
                         <li className="nav__item">
@@ -87,7 +87,7 @@ const Navbar = () => {
                                 duration={500}
                                 offset={-64} 
                                 className="nav__link">
-                                <i class="uil uil-scenery nav__icon"></i>Timeline
+                                <i class="uil uil-history-alt nav__icon"></i>Timeline
                             </Link>
                         </li>
                         <li className="nav__item">
@@ -100,7 +100,7 @@ const Navbar = () => {
                                 duration={500}
                                 offset={-64} 
                                 className="nav__link">
-                                <i class="uil uil-message nav__icon"></i>Contact Me
+                                <i class="uil uil-message nav__icon"></i>Contact
                             </Link>
                         </li>
                     </ul>

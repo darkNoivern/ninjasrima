@@ -12,11 +12,10 @@ const Home = () => {
 
     return (
         <>
-            <div id='home' className="section dark-background px-5 my-5 pt-10 text-white text-2xl">
+            <div id='home' className="section flexy dark-background px-5 text-white text-2xl">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div className='flexy'>
                         <div>
-
                             <div className='my-3'>
                                 Hello, My name is Srima and <br />I am a&nbsp;
                                 <span className="typing-effect text-black">

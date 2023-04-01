@@ -21,6 +21,7 @@ const Footer = () => {
                         <ul className="footer__links">
                             <li>
                                 <Link to="about" 
+                                activeClass="active_footer"
                                 spy={true}
                                 smooth={true}
                                 duration={500}
@@ -29,6 +30,7 @@ const Footer = () => {
                             </li>
                             <li>
                                 <Link to="videos" 
+                                activeClass="active_footer"
                                 spy={true}
                                 smooth={true}
                                 duration={500}
@@ -37,6 +39,7 @@ const Footer = () => {
                             </li>
                             <li>
                                 <Link to="contact" 
+                                activeClass="active_footer"
                                 spy={true}
                                 smooth={true}
                                 duration={500} 
@@ -46,14 +49,14 @@ const Footer = () => {
                         </ul>
 
                         <div className="footer__socials">
-                            <a href="https://www.facebook.com/mahadev.karmakar.372/" className="footer__social" target="_blank">
+                            <a href="https://www.facebook.com/srima.karmakar.5" className="footer__social" target="_blank">
                                 <i className="uil uil-facebook-f mr-4"></i>
                             </a>
                             <a href="https://www.instagram.com/ryuzaki_mahadev/" className="footer__social" target="_blank">
                                 <i className="uil uil-instagram mr-4"></i>
                             </a>
-                            <a href="" className="footer__social" target="_blank">
-                                <i className="uil uil-twitter-alt"></i>
+                            <a href="https://www.youtube.com/@srimaskitchen1950" className="footer__social" target="_blank">
+                                <i class="uil uil-youtube"></i>
                             </a>
                         </div>
                     </div>
