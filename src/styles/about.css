@@ -48,7 +48,7 @@
 
 @media screen and (min-width: 768px) {
 
-    .context, .circles{
+    .context, .circles, .about-section{
         height: 25rem;
     }
 
