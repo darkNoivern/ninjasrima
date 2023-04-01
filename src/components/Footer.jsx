@@ -52,7 +52,7 @@ const Footer = () => {
                             <a href="https://www.facebook.com/srima.karmakar.5" className="footer__social" target="_blank">
                                 <i className="uil uil-facebook-f mr-4"></i>
                             </a>
-                            <a href="https://www.instagram.com/ryuzaki_mahadev/" className="footer__social" target="_blank">
+                            <a href="https://www.instagram.com/srima.karmakar/?igshid=YmMyMTA2M2Y%3D" className="footer__social" target="_blank">
                                 <i className="uil uil-instagram mr-4"></i>
                             </a>
                             <a href="https://www.youtube.com/@srimaskitchen1950" className="footer__social" target="_blank">
